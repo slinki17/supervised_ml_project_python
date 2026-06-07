@@ -1,2 +1,4 @@
-# Supervised Machine Learning Project
-## Python notebook for a supervised machine learning project. Contains data preparation, EDA statistics, classification using multiple models, result evaluation and visualization.
+# Felügyelt Gépi Tanulás Projekt
+## Python notebook egy felügyelt gépi tanulási projekthez. Tartalmaz adatelőkészítést, EDA statisztikákat, osztályozást többféle módszer segítségével, eredmények értékelését és ábrázolását.
+
+A projekt fő célja a spotify.csv fájlban található legtöbbet streamelt dalok tempójának meghatározása (alacsony/közepes/magas) különböző zenei tulajdonságok alapján.

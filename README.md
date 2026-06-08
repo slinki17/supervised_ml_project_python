@@ -16,4 +16,4 @@ A projekt fő célja a spotify.csv fájlban található legtöbbet streamelt dal
 
 ## Projekt megtekintése/futtatása
 
-Notebook betöltése Jupyter környezetben és a szükséges könyvtárak telepítése/betöltése
+Megtekintés GitHub-on keresztül, vagy Jupyter környezetben. Futtatás Jupyter környezetben a szükséges könyvtárak telepítésével/betöltésével.

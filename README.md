@@ -11,8 +11,8 @@ A projekt fő célja a spotify.csv fájlban található legtöbbet streamelt dal
 
 ## Projekt fájlok
 
-supervised-ml-project.ipynb - A projektet tartalmazó Jupyter notebook
-spotify.csv - A dalok adatait tartalmazó Excel táblázat
+* supervised-ml-project.ipynb - A projektet tartalmazó Jupyter notebook
+* spotify.csv - A dalok adatait tartalmazó Excel táblázat
 
 ## Projekt megtekintése/futtatása
 

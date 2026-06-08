@@ -5,7 +5,7 @@ A projekt fő célja a spotify.csv fájlban található legtöbbet streamelt dal
 
 * Adatelőkészítés
 * EDA statisztikák
-* Osztályozás különböző módszerekkel
+* Osztályozás különböző módszerekkel (Decision Tree + Random Forest)
 * Eredmények értelmezése/értékelése
 * Eredmények ábrázolása
 

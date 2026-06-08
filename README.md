@@ -1,5 +1,5 @@
 # Felügyelt Gépi Tanulás Projekt
-## Python notebook egy felügyelt gépi tanulási projekthez Data Science eszközökkel és osztályozó módszerekkel. Tartalmaz adatelőkészítést, EDA statisztikákat, osztályozást többféle módszer segítségével, eredmények értékelését és ábrázolását.
+## Python notebook egy felügyelt gépi tanulási projekthez Data Science eszközökkel és osztályozó módszerekkel.
 
 A projekt fő célja a spotify.csv fájlban található legtöbbet streamelt dalok tempójának meghatározása (osztályozás) különböző zenei tulajdonságok alapján. A projekt a következő területeket érinti:
 
